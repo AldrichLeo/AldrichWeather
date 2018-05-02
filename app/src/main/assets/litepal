@@ -1,0 +1,9 @@
+<litepal>
+    <dbname values = "aldrich_weather"/>
+    <version value = "1"/>
+    <list>
+        <mapping class = "comt.example.aldrich.aldrichweather.db.Province"/>
+        <mapping class="comt.example.aldrich.aldrichweather.db.City"/>
+        <mapping class="comt.example.aldrich.aldrichweather.db.County"/>
+    </list>
+</litepal>
